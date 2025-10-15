@@ -1,0 +1,19 @@
+{
+  "name": "express-lab-assignment",
+  "version": "1.0.0",
+  "description": "Express lab assignment - three apps demonstrating routing and CRUD with JSON",
+  "main": "app1.js",
+  "scripts": {
+    "start1": "nodemon app1.js",
+    "start2": "nodemon app2.js",
+    "start3": "nodemon app3.js"
+  },
+  "author": "Husanpreet Kaur",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

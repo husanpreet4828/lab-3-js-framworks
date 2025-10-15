@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Inception", "genre": "Sci-Fi", "year": 2010, "rating": 8.8 },
+  { "id": 2, "title": "Titanic", "genre": "Romance", "year": 1997, "rating": 7.9 },
+  { "id": 3, "title": "Avengers: Endgame", "genre": "Action", "year": 2019, "rating": 8.4 },
+  { "id": 4, "title": "Interstellar", "genre": "Sci-Fi", "year": 2014, "rating": 8.6 },
+  { "id": 5, "title": "Joker", "genre": "Drama", "year": 2019, "rating": 8.5 },
+  { "id": 6, "title": "Frozen II", "genre": "Animation", "year": 2019, "rating": 6.8 }
+]
